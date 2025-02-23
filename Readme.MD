@@ -1,0 +1,1 @@
+First thing is git is a distributed version control systems and used to store and track the code and allows teams to collobarate and work on a coding project. It allows multiple people to work on a project simultaneously without overwriting each other's work.
